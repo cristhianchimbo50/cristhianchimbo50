@@ -32,6 +32,10 @@ Este repositorio es mi carta de presentación profesional, donde comparto proyec
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ---
+
+![cristhianchimbo50's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianchimbo50&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
 ## 📫 Contacto
 
 - 📧 Email: chimbocristhian994@gmail.com  
